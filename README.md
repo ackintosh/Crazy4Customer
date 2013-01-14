@@ -1,5 +1,6 @@
 #会員属性を指定して表示変更
-
+The build status of the current master branch is tracked by Travis CI:
+[![Build Status](https://travis-ci.org/ackintosh/Crazy4Customer.png)](https://travis-ci.org/ackintosh/Crazy4Customer)  
 EC-CUBE plugin.  
 ※ Make sure to add tests for it. 
   This is important so I don't break it in a future version unintentionally.  
